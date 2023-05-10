@@ -4,6 +4,9 @@
          <titleStmt>
             <title type="main">TEI Workshop Selections.pdf</title>
          </titleStmt>
+         <publicationStmt>
+         <p/>
+         </publicationStmt>
          <seriesStmt>
             <title>Janta Survey</title>
          </seriesStmt>
@@ -18,7 +21,7 @@
    <text>
       <body>
          <div>
-           <pb facs="#facs_3" n="3" xml:id="img_0003"/><ab facs="#facs_3_tr_1" type="">
+           <pb facs="#facs_3" n="3" xml:id="img_0003"/><ab facs="#facs_3_tr_1">
                <lb facs="#facs_3_tr_1_tl_1" n="N001"/>1. What do you believe to be Joseph Conrad's permanent place and rank in
                <lb facs="#facs_3_tr_1_tl_2" n="N002"/>English letters? When Conrad died, some crities were uncertain of his
                <lb facs="#facs_3_tr_1_tl_3" n="N003"/>Linal position and Virginia Woolf, in particular, doubted whether any
@@ -39,13 +42,11 @@
                <lb facs="#facs_3_tr_1_tl_18" n="N018"/>Simple English rhythms which formed
                <lb facs="#facs_3_tr_1_tl_19" n="N019"/>the ground-swell of his writing
                <lb facs="#facs_3_tr_1_tl_20" n="N020"/>3. Has Conrad had any influence on American literature)
-            </ab><ab facs="#facs_3_tr_2" type="">
-               <lb facs="#facs_3_tr_2_tl_1" n="N001"/>I suspect very little
-               <lb facs="#facs_3_tr_2_tl_2" n="N002"/>A far
+            </ab><ab facs="#facs_3_tr_2">
+               <lb facs="#facs_3_tr_2_tl_1" n="N001"/>I suspect very little. A far
                <lb facs="#facs_3_tr_2_tl_3" n="N003"/>greater influence in England
                <lb facs="#facs_3_tr_2_tl_4" n="N004"/>and France. Especially notable
-               <lb facs="#facs_3_tr_2_tl_5" n="N005"/>in Gide, who translated him
-               <lb facs="#facs_3_tr_2_tl_6" n="N006"/>4. Do you feel that you owe him anything in your own development as a
+               <lb facs="#facs_3_tr_2_tl_5" n="N005"/>in Gide, who translated him.<lb facs="#facs_3_tr_2_tl_6" n="N006"/>4. Do you feel that you owe him anything in your own development as a
                <lb facs="#facs_3_tr_2_tl_7" n="N007"/>writer?
                <lb facs="#facs_3_tr_2_tl_8" n="N008"/>Certainly: there has been no
                <lb facs="#facs_3_tr_2_tl_9" n="N009"/>stylist like this for a hundred years,
