@@ -253,6 +253,243 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml?person_annotation_20230510112128571",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-05-10T15:21:28.571Z",
+	"dcterms:modified": "2023-05-10T15:21:28.571Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/inokhrin",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Illya Nokhrin"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml?person_annotation_20230510112128571#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.0.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml?person_annotation_20230510112128571#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/ab/persName[4]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q7325004",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.0.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml?person_annotation_20230510112303256",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-05-10T15:23:03.256Z",
+	"dcterms:modified": "2023-05-10T15:23:03.256Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/inokhrin",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Illya Nokhrin"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml?person_annotation_20230510112303256#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.0.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml?person_annotation_20230510112303256#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/ab/persName[5]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q7325004",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.0.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml?person_annotation_20230510112326262",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-05-10T15:23:26.262Z",
+	"dcterms:modified": "2023-05-10T15:23:26.262Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/inokhrin",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Illya Nokhrin"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml?person_annotation_20230510112326262#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.0.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml?person_annotation_20230510112326262#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/ab/persName[6]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q40909",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.0.1"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
    
    <text>
@@ -263,11 +500,11 @@
                <lb facs="#facs_3_tr_1_tl_2" n="N002"/>English letters? When <persName key="Joseph Conrad" ref="http://www.wikidata.org/entity/Q82925" cert="high" type="real">Conrad</persName> died, some crities were uncertain of his
                <lb facs="#facs_3_tr_1_tl_3" n="N003"/>final position and <persName key="Virginia Woolf" ref="http://www.wikidata.org/entity/Q40909">Virginia Woolf</persName>, in particular, doubted whether any
                <lb facs="#facs_3_tr_1_tl_4" n="N004"/>of his later novels would survive. On the publication of a new edition
-               <lb facs="#facs_3_tr_1_tl_5" n="N005"/>of his collected writings, Mr. Richard Curle wrote in Time and Tide
+               <lb facs="#facs_3_tr_1_tl_5" n="N005"/>of his collected writings, <persName key="Richard Curle" ref="http://www.wikidata.org/entity/Q7325004">Mr. Richard Curle</persName> wrote in Time and Tide
                <lb facs="#facs_3_tr_1_tl_6" n="N006"/>that Conrad's works now rank among the great classics of the English
                <lb facs="#facs_3_tr_1_tl_7" n="N007"/>novel. Which of these views, in your opinion, is correct?
-               <lb facs="#facs_3_tr_1_tl_8" n="N008"/>I agree entirely with Mr. Curle, and
-               <lb facs="#facs_3_tr_1_tl_9" n="N009"/>cannot understand why Mrs. Woolf
+               <lb facs="#facs_3_tr_1_tl_8" n="N008"/>I agree entirely with <persName key="Richard Curle" ref="http://www.wikidata.org/entity/Q7325004">Mr. Curle</persName>, and
+               <lb facs="#facs_3_tr_1_tl_9" n="N009"/>cannot understand why <persName key="Virginia Woolf" ref="http://www.wikidata.org/entity/Q40909" cert="high" type="real">Mrs. Woolf</persName>
                <lb facs="#facs_3_tr_1_tl_10" n="N010"/>failed completely to realize the
                <lb facs="#facs_3_tr_1_tl_11" n="N011"/>inherent strength and lasting-power of Conrad
                <lb facs="#facs_3_tr_1_tl_12" n="N012"/>2. Do you detect in Conrad's work any oddity, exoticism and strangeness
