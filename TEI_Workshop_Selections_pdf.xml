@@ -21,10 +21,10 @@
    <text>
       <body>
          <div>
-           <pb cert="high" facs="https://raw.githubusercontent.com/inokhrin/jantasurvey/main/0003_p003.jpg" xml:space="default" n="3" xml:id="img_0003"/><ab facs="#facs_3_tr_1">
+           <pb cert="high" facs="https://raw.githubusercontent.com/inokhrin/jantasurvey/main/0003_p003.jpg" n="3"/><ab facs="#facs_3_tr_1">
                <lb facs="#facs_3_tr_1_tl_1" n="N001"/>1. What do you believe to be Joseph Conrad's permanent place and rank in
                <lb facs="#facs_3_tr_1_tl_2" n="N002"/>English letters? When Conrad died, some crities were uncertain of his
-               <lb facs="#facs_3_tr_1_tl_3" n="N003"/>Linal position and Virginia Woolf, in particular, doubted whether any
+               <lb facs="#facs_3_tr_1_tl_3" n="N003"/>final position and Virginia Woolf, in particular, doubted whether any
                <lb facs="#facs_3_tr_1_tl_4" n="N004"/>of his later novels would survive. On the publication of a new edition
                <lb facs="#facs_3_tr_1_tl_5" n="N005"/>of his collected writings, Mr. Richard Curle wrote in Time and Tide
                <lb facs="#facs_3_tr_1_tl_6" n="N006"/>that Conrad's works now rank among the great classics of the English
