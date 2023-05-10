@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="main">TEI Workshop Selections.pdf</title>
-         </titleStmt>
-         <publicationStmt>
-         <p/>
-         </publicationStmt>
-         <seriesStmt>
-            <title>Janta Survey</title>
-         </seriesStmt>
-         <sourceDesc>
-            <bibl>
-               <title type="main">TEI Workshop Selections.pdf</title><idno type="Transkribus">1429135</idno>
-            </bibl>
-         </sourceDesc>
-      </fileDesc>
-   <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">TEI Workshop Selections.pdf</title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Janta Survey</title>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">TEI Workshop Selections.pdf</title>
+                    <idno type="Transkribus">1429135</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
         <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
           <![CDATA[{
 	"@context": {
@@ -127,85 +129,6 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml?person_annotation_20230510111920441",
-	"type": "oa:Annotation",
-	"dcterms:created": "2023-05-10T15:19:20.441Z",
-	"dcterms:modified": "2023-05-10T15:19:20.441Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/inokhrin",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Illya Nokhrin"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml?person_annotation_20230510111920441#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.0.1"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml?person_annotation_20230510111920441#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/ab/persName[3]"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q40909",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.0.1"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
 	"id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml?person_annotation_20230510112059510",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-05-10T15:20:59.510Z",
@@ -253,360 +176,39 @@
 	}
 }]]>
         </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml?person_annotation_20230510112128571",
-	"type": "oa:Annotation",
-	"dcterms:created": "2023-05-10T15:21:28.571Z",
-	"dcterms:modified": "2023-05-10T15:21:28.571Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/inokhrin",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Illya Nokhrin"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml?person_annotation_20230510112128571#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.0.1"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml?person_annotation_20230510112128571#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/ab/persName[4]"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7325004",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.0.1"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml?person_annotation_20230510112303256",
-	"type": "oa:Annotation",
-	"dcterms:created": "2023-05-10T15:23:03.256Z",
-	"dcterms:modified": "2023-05-10T15:23:03.256Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/inokhrin",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Illya Nokhrin"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml?person_annotation_20230510112303256#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.0.1"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml?person_annotation_20230510112303256#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/ab/persName[5]"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7325004",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.0.1"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml?person_annotation_20230510112326262",
-	"type": "oa:Annotation",
-	"dcterms:created": "2023-05-10T15:23:26.262Z",
-	"dcterms:modified": "2023-05-10T15:23:26.262Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/inokhrin",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Illya Nokhrin"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml?person_annotation_20230510112326262#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.0.1"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml?person_annotation_20230510112326262#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/ab/persName[6]"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q40909",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.0.1"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml?title_annotation_20230510112406523",
-	"type": "oa:Annotation",
-	"dcterms:created": "2023-05-10T15:24:06.523Z",
-	"dcterms:modified": "2023-05-10T15:24:06.523Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/inokhrin",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Illya Nokhrin"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml?title_annotation_20230510112406523#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.0.1"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/inokhrin/jantasurvey/main/TEI_Workshop_Selections_pdf.xml?title_annotation_20230510112406523#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/ab/title"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "bf:Title",
-		"@id": "http://www.wikidata.org/entity/Q7805262",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.0.1"
-	}
-}]]>
-        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
-   
-   <text>
-      <body>
-         <div>
-           <pb cert="high" facs="https://raw.githubusercontent.com/inokhrin/jantasurvey/main/0003_p003.jpg" n="3"/><ab facs="#facs_3_tr_1">
-               <lb facs="#facs_3_tr_1_tl_1" n="N001"/>1. What do you believe to be <persName key="Joseph Conrad" ref="http://www.wikidata.org/entity/Q82925" cert="high" type="real">Joseph Conrad</persName>'s permanent place and rank in
-               <lb facs="#facs_3_tr_1_tl_2" n="N002"/>English letters? When <persName key="Joseph Conrad" ref="http://www.wikidata.org/entity/Q82925" cert="high" type="real">Conrad</persName> died, some crities were uncertain of his
-               <lb facs="#facs_3_tr_1_tl_3" n="N003"/>final position and <persName key="Virginia Woolf" ref="http://www.wikidata.org/entity/Q40909">Virginia Woolf</persName>, in particular, doubted whether any
-               <lb facs="#facs_3_tr_1_tl_4" n="N004"/>of his later novels would survive. On the publication of a new edition
-               <lb facs="#facs_3_tr_1_tl_5" n="N005"/>of his collected writings, <persName key="Richard Curle" ref="http://www.wikidata.org/entity/Q7325004">Mr. Richard Curle</persName> wrote in <title key="Time and Tide" ref="http://www.wikidata.org/entity/Q7805262" level="j">Time and Tide</title>
-               <lb facs="#facs_3_tr_1_tl_6" n="N006"/>that Conrad's works now rank among the great classics of the English
-               <lb facs="#facs_3_tr_1_tl_7" n="N007"/>novel. Which of these views, in your opinion, is correct?
-               <lb facs="#facs_3_tr_1_tl_8" n="N008"/>I agree entirely with <persName key="Richard Curle" ref="http://www.wikidata.org/entity/Q7325004">Mr. Curle</persName>, and
-               <lb facs="#facs_3_tr_1_tl_9" n="N009"/>cannot understand why <persName key="Virginia Woolf" ref="http://www.wikidata.org/entity/Q40909" cert="high" type="real">Mrs. Woolf</persName>
-               <lb facs="#facs_3_tr_1_tl_10" n="N010"/>failed completely to realize the
-               <lb facs="#facs_3_tr_1_tl_11" n="N011"/>inherent strength and lasting-power of Conrad
-               <lb facs="#facs_3_tr_1_tl_12" n="N012"/>2. Do you detect in Conrad's work any oddity, exoticism and strangeness
-               <lb facs="#facs_3_tr_1_tl_13" n="N013"/>(against the background of the English literary tradition, of course)
-               <lb facs="#facs_3_tr_1_tl_14" n="N014"/>and if so, do you attribute it to his Polish origin?
-               <lb facs="#facs_3_tr_1_tl_15" n="N015"/>There seems to be no doubt that
-               <lb facs="#facs_3_tr_1_tl_16" n="N016"/>Slavonic rhythms are present in Conrad's
-               <lb facs="#facs_3_tr_1_tl_17" n="N017"/>work, enriching the basic and very
-               <lb facs="#facs_3_tr_1_tl_18" n="N018"/>Simple English rhythms which formed
-               <lb facs="#facs_3_tr_1_tl_19" n="N019"/>the ground-swell of his writing
-               <lb facs="#facs_3_tr_1_tl_20" n="N020"/>3. Has Conrad had any influence on American literature)
-            </ab><ab facs="#facs_3_tr_2">
-               <lb facs="#facs_3_tr_2_tl_1" n="N001"/>I suspect very little. A far
-               <lb facs="#facs_3_tr_2_tl_3" n="N003"/>greater influence in England
-               <lb facs="#facs_3_tr_2_tl_4" n="N004"/>and France. Especially notable
-               <lb facs="#facs_3_tr_2_tl_5" n="N005"/>in Gide, who translated him.<lb facs="#facs_3_tr_2_tl_6" n="N006"/>4. Do you feel that you owe him anything in your own development as a
-               <lb facs="#facs_3_tr_2_tl_7" n="N007"/>writer?
-               <lb facs="#facs_3_tr_2_tl_8" n="N008"/>Certainly: there has been no
-               <lb facs="#facs_3_tr_2_tl_9" n="N009"/>stylist like this for a hundred years,
-               <lb facs="#facs_3_tr_2_tl_10" n="N010"/>and no one else except Doughty has
-               <lb facs="#facs_3_tr_2_tl_11" n="N011"/>written in English so well about the East.
-               <lb facs="#facs_3_tr_2_tl_12" n="N012"/>Signed Robert Payne
-               <lb facs="#facs_3_tr_2_tl_13" n="N013"/></ab></div>
-      </body>
-   </text>
+
+    <text>
+        <body>
+            <div>
+                <pb cert="high" facs="https://raw.githubusercontent.com/inokhrin/jantasurvey/main/0003_p003.jpg" n="3"/>
+                    <p n="1">
+                    <lb facs="#facs_3_tr_1_tl_1" n="N001"/>1. What do you believe to be <persName key="Joseph Conrad" ref="http://www.wikidata.org/entity/Q82925" cert="high" type="real">Joseph Conrad</persName>'s permanent place and rank in <lb facs="#facs_3_tr_1_tl_2" n="N002"/>English letters? When <persName key="Joseph Conrad" ref="http://www.wikidata.org/entity/Q82925" cert="high" type="real">Conrad</persName> died, some crities were uncertain of his <lb facs="#facs_3_tr_1_tl_3" n="N003"/>final position and <persName key="Virginia Woolf" ref="http://www.wikidata.org/entity/Q40909">Virginia
+                        Woolf</persName>, in particular, doubted whether any <lb facs="#facs_3_tr_1_tl_4" n="N004"/>of his later novels would survive. On the
+                    publication of a new edition <lb facs="#facs_3_tr_1_tl_5" n="N005"/>of his
+                    collected writings, <persName key="Richard Curle" ref="http://www.wikidata.org/entity/Q7325004">Mr. Richard Curle</persName>
+                    wrote in <title key="Time and Tide" ref="http://www.wikidata.org/entity/Q7805262" level="j">Time and
+                        Tide</title>
+                    <lb facs="#facs_3_tr_1_tl_6" n="N006"/>that Conrad's works now rank among the
+                    great classics of the English <lb facs="#facs_3_tr_1_tl_7" n="N007"/>novel.
+                        Which of these views, in your opinion, is correct? </p>
+                    <ab n="1"><lb facs="#facs_3_tr_1_tl_8" n="N008"/>I agree entirely with <persName key="Richard Curle" ref="http://www.wikidata.org/entity/Q7325004">Mr. Curle</persName>, and <lb facs="#facs_3_tr_1_tl_9" n="N009"/>cannot understand why <persName key="Virginia Woolf" ref="http://www.wikidata.org/entity/Q40909" cert="high" type="real">Mrs. Woolf</persName>
+                    <lb facs="#facs_3_tr_1_tl_10" n="N010"/>failed completely to realize the <lb facs="#facs_3_tr_1_tl_11" n="N011"/>inherent strength and lasting-power of
+                    Conrad </ab><lb facs="#facs_3_tr_1_tl_12" n="N012"/>2. Do you detect in Conrad's work
+                    any oddity, exoticism and strangeness <lb facs="#facs_3_tr_1_tl_13" n="N013"/>(against the background of the English literary tradition, of course) <lb facs="#facs_3_tr_1_tl_14" n="N014"/>and if so, do you attribute it to his
+                    Polish origin? <lb facs="#facs_3_tr_1_tl_15" n="N015"/>There seems to be no
+                    doubt that <lb facs="#facs_3_tr_1_tl_16" n="N016"/>Slavonic rhythms are present
+                    in Conrad's <lb facs="#facs_3_tr_1_tl_17" n="N017"/>work, enriching the basic
+                    and very <lb facs="#facs_3_tr_1_tl_18" n="N018"/>Simple English rhythms which
+                    formed <lb facs="#facs_3_tr_1_tl_19" n="N019"/>the ground-swell of his writing
+                        <lb facs="#facs_3_tr_1_tl_20" n="N020"/>3. Has Conrad had any influence on
+                    American literature) 
+                    <lb facs="#facs_3_tr_2_tl_1" n="N001"/>I suspect very little. A far <lb facs="#facs_3_tr_2_tl_3" n="N003"/>greater influence in England <lb facs="#facs_3_tr_2_tl_4" n="N004"/>and France. Especially notable <lb facs="#facs_3_tr_2_tl_5" n="N005"/>in Gide, who translated him.<lb facs="#facs_3_tr_2_tl_6" n="N006"/>4. Do you feel that you owe him anything
+                    in your own development as a <lb facs="#facs_3_tr_2_tl_7" n="N007"/>writer? <lb facs="#facs_3_tr_2_tl_8" n="N008"/>Certainly: there has been no <lb facs="#facs_3_tr_2_tl_9" n="N009"/>stylist like this for a hundred years,
+                        <lb facs="#facs_3_tr_2_tl_10" n="N010"/>and no one else except Doughty has
+                        <lb facs="#facs_3_tr_2_tl_11" n="N011"/>written in English so well about the
+                    East. <lb facs="#facs_3_tr_2_tl_12" n="N012"/>Signed Robert Payne <lb facs="#facs_3_tr_2_tl_13" n="N013"/>
+            </div>
+        </body>
+    </text>
 </TEI>
